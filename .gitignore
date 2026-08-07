@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+
+# Local tooling and development output
+.tools/
+*.log
+node-*-x64.msi
+node-*-win-x64.zip
+
+# Editor and OS files
+.vscode/
+Thumbs.db
